@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! ⋆*・ﾟ
 
-<!--
-**alvorie/alvorie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alena and I am an Applied Computer Science student at MIREA. I love cats and combining coding with simplistic design :)
 
-Here are some ideas to get you started:
+## Areas of Interest:
+- Frontend Development
+- UI/UX Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Last Projects:
+- **Vinyl Audio Player**: A minimalistic player with a spinning vinyl ⋆.˚✮🎧✮˚.⋆.
+- **Simon Says**: A memory game with keyboard sequences.
+- **Gallery**: A simple image gallery from Unsplash.
+
+To take a closer look at my work and skills: you can see my CV [here](https://alvorie.github.io/rsschool-cv/). Thanks for stopping by! ✨
