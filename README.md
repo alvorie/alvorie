@@ -11,4 +11,5 @@ My name is Alena and I am an Applied Computer Science student at MIREA. I love c
 - **Simon Says**: A memory game with keyboard sequences.
 - **Gallery**: A simple image gallery from Unsplash.
 
-To take a closer look at my work and skills: you can see my CV [here](https://alvorie.github.io/rsschool-cv/). Thanks for stopping by! ✨
+## Let's Connect ✨
+To take a closer look at my work and skills: you can see my CV [here](https://alvorie.github.io/rsschool-cv/).
