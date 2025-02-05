@@ -1,4 +1,4 @@
-# Hi there! ⋆*・ﾟ
+# hello! ⋆*・ﾟ
 
 My name is Alena and I am an Applied Computer Science student at MIREA. I love cats and combining coding with simplistic design :)
 
