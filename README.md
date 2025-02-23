@@ -13,4 +13,4 @@ My name is Alena and I am an Applied Computer Science student at MIREA. I love c
 - [**Gallery**](https://rolling-scopes-school.github.io/alvorie-JSFEPRESCHOOL2024Q2/image-gallery/): A simple practice in working with API - image gallery from Unsplash.
 
 ## Let's Connect!
-To take a closer look at my work and skills: you can see my CV [here]https://alvorie.github.io/rsschool-cv/(https://resume-react-course-id7rglsbc-alvories-projects.vercel.app/).
+To take a closer look at my work and skills: you can see my CV [here](https://resume-react-course-id7rglsbc-alvories-projects.vercel.app/).
