@@ -1,6 +1,7 @@
 # hello! ⋆*・ﾟ
 
 My name is Alena and I am an Applied Computer Science student at MIREA. I love cats and combining coding with simplistic design :)
+
 *To take a closer look at my work and skills: you can see my CV **[here](https://resume-react-course.vercel.app/)***
 
 ## Areas of Interest:
